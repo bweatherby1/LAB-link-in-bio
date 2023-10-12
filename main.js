@@ -1,1 +1,1 @@
-console.log("Link in bio consol log.");
+console.log("Link in bio console log.");
